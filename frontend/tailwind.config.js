@@ -25,6 +25,8 @@ export default {
       spacing: {
         '70p' : '70%',
         '1px' : '1px',
+        '700px' : '700px',
+        '300px' : '300px',
       },
       gridTemplateColumns: {
         'custom': '1fr 1fr 1fr',
