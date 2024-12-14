@@ -6,6 +6,9 @@ export default {
   ],
   theme: {
     extend: {
+      height: {
+        'calc-full-minus-70': 'calc(100% - 70px)', // Custom height
+      },
       width: {
         '95p': '95%', 
       },
