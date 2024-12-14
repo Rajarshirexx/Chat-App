@@ -24,7 +24,11 @@ export default {
       },
       spacing: {
         '70p' : '70%',
-      }
+        '1px' : '1px',
+      },
+      gridTemplateColumns: {
+        'custom': '1fr 1fr 1fr',
+      },
     },
   },
   plugins: [],
